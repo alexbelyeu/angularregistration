@@ -1,0 +1,29 @@
+{
+  "name": "angularregistration",
+  "version": "1.0.0",
+  "description": "Small Angular app with registration+login forms using Firebase 3.x and Angularfire 2.x",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexbelyeu/angularregistration.git"
+  },
+  "keywords": [
+    "angular",
+    "registration",
+    "firebase"
+  ],
+  "author": "Alex Belyeu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alexbelyeu/angularregistration/issues"
+  },
+  "homepage": "https://github.com/alexbelyeu/angularregistration#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-util": "^3.0.7",
+    "gulp-webserver": "^0.9.1"
+  }
+}
