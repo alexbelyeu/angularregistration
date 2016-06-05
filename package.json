@@ -4,7 +4,7 @@
   "description": "Small Angular app with registration+login forms using Firebase 3.x and Angularfire 2.x",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alexbelyeu/angularregistration.git"
+    "url": "https://github.com/alexbelyeu/angularregistration.git"
   },
   "keywords": [
     "angular",
