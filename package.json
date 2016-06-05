@@ -2,10 +2,6 @@
   "name": "angularregistration",
   "version": "1.0.0",
   "description": "Small Angular app with registration+login forms using Firebase 3.x and Angularfire 2.x",
-  "main": "index.html",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/alexbelyeu/angularregistration.git"
