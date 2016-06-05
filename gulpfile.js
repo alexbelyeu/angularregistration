@@ -21,7 +21,8 @@ gulp.task('watch', function() {
 });
 
 gulp.task('webserver', function() {
-  gulp.pipe(webserver({
+  gulp.src('')
+    .pipe(webserver({
       livereload: true,
       open: true
     }));
